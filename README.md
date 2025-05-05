@@ -7,6 +7,6 @@ Back-End Developer
 
 <div align="center">
   <a href="https://github.com/caio-machado-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-machado-dev&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-machado-dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>

@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! 🌎
 
 Olá, me chamo Caio Machado, tenho 20 anos e sou apaixonado pelo universo da tecnologia. Desde a infância, sempre fui curioso sobre como os computadores funcionam e essa curiosidade me levou a descobrir o mundo da programação.
 

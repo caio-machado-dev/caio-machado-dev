@@ -2,7 +2,7 @@
 
 Olá, me chamo Caio Machado, tenho 20 anos e sou apaixonado pelo universo da tecnologia. Desde a infância, sempre fui curioso sobre como os computadores funcionam e essa curiosidade me levou a descobrir o mundo da programação.
 
-Desde 2020, tenho me dedicado intensamente ao estudo da programação e à busca de conhecimento na área de tecnologia. Atualmente, sou estudante de Sistemas de Informação - 4° Período, e estou focado em desenvolver minhas habilidades em back-end.
+Desde 2020, tenho me dedicado intensamente ao estudo da programação e à busca de conhecimento na área de tecnologia. Atualmente, sou estudante de Sistemas de Informação - 6° Período, e estou focado em desenvolver minhas habilidades em back-end.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Machado-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/caio-machado-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-caio.machado.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.machado.dev@gmail.com)](mailto:caio.machado.dev@gmail.com)

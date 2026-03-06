@@ -50,9 +50,3 @@ Desde **2020**, tenho me dedicado intensamente ao estudo da programação e à b
   <img alt="Caio-SQLLIte" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
   <img alt="Caio-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 </div>
-
----
-
-<div align="center">
-  <sub>✨ Os banners acima são atualizados automaticamente a cada 12 horas via GitHub Actions</sub>
-</div>

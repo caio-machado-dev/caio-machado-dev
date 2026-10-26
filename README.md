@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! 🌎
 
-Olá, me chamo **Caio Machado**, tenho 20 anos e sou apaixonado pelo universo da tecnologia. Desde a infância, sempre fui curioso sobre como os computadores funcionam e essa curiosidade me levou a descobrir o mundo da programação.
+Olá, me chamo **Caio Machado** e sou **Software Engineer na [Bázico](https://sejabazico.com.br)**, onde desenvolvo APIs, integrações com Shopify, pipelines de dados e automações com n8n.
 
-Desde **2020**, tenho me dedicado intensamente ao estudo da programação e à busca de conhecimento na área de tecnologia. Atualmente, sou estudante de **Sistemas de Informação - 7° Período**, e estou focado em desenvolver minhas habilidades em **back-end**.
+Programo desde **2020**, quando a curiosidade sobre como os computadores funcionam me levou ao desenvolvimento. Hoje meu foco é **backend**: Python (Django, FastAPI), Java (Spring Boot), PostgreSQL e Docker. Em paralelo, curso **Sistemas de Informação na UNIT** (7º período).
 
 <div align="center">
   
